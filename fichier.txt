@@ -1,2 +1,6 @@
 blablabla
-blablabla a recuperer par l'user lambda 
+<<<<<<< essaie
+blabla a recuperer par le user lambda 
+=======
+blabla pour l'utilisateur lambda
+>>>>>>> main
